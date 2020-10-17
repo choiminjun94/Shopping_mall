@@ -1,5 +1,7 @@
 # 개발 일지
 
+## 윈도우 업데이트 중 onedrive 업데이트 때문에 컴자료가 전부 원드라이브로 들어가서 git add .를 새로 할려다가 원래 커밋이 전부 삭제 되었습니다...
+
 :oncoming_automobile: 로드맵 :oncoming_automobile:
 
 ### https://www.notion.so/6415bcd11a5a42f9806695ca80b493c4?v=58201f007aa8470c97befc8712aff2ed
